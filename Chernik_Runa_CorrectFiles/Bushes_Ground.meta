@@ -1,49 +1,40 @@
 fileFormatVersion: 2
-guid: e4f1f2defe0d77b43b6b87bf3568315c
+guid: 992647635cb927d4199eed1adfa49e94
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3857440156765829818
-    second: Bushes_02_0
+      213: -3970050737443565004
+    second: Bushes_04_0
   - first:
-      213: 4845708550439355826
-    second: Bushes_02_1
+      213: 7391647248562227681
+    second: Bushes_04_1
   - first:
-      213: 6540869751757382303
-    second: Bushes_02_2
+      213: -9062434833927369217
+    second: Bushes_04_2
   - first:
-      213: -1410942866372478682
-    second: Bushes_02_3
+      213: -6563715625433694331
+    second: Bushes_04_3
   - first:
-      213: 5279877363573946366
-    second: Bushes_02_4
+      213: -9176618993359763171
+    second: Bushes_04_4
   - first:
-      213: 1627497079609759083
-    second: Bushes_02_5
+      213: -4547496029875014232
+    second: Bushes_04_5
   - first:
-      213: 906677446294878277
-    second: Bushes_02_6
+      213: 4352856500915460782
+    second: Bushes_04_6
   - first:
-      213: -6953148375550155135
-    second: Bushes_02_7
+      213: -1708303390960174576
+    second: Bushes_04_7
   - first:
-      213: -8094215920613788104
-    second: Bushes_02_8
+      213: 8893251504962710633
+    second: Bushes_04_8
   - first:
-      213: 7069844228829066277
-    second: Bushes_02_9
+      213: -8989494817642100152
+    second: Bushes_04_9
   - first:
-      213: -4834206448882915470
-    second: Bushes_02_10
-  - first:
-      213: 8323823878821674332
-    second: Bushes_02_11
-  - first:
-      213: 4305993952126085141
-    second: Bushes_02_12
-  - first:
-      213: 9086286947981514007
-    second: Bushes_02_13
+      213: 6318586045695603775
+    second: Bushes_04_10
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -126,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bushes_02_0
+      name: Bushes_04_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 1454
-        height: 143
+        height: 177
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4890d829882039f45be69be3a1643dd3
-      internalID: -3857440156765829818
+      spriteID: ea16f51b344c1b04991f355bdc56017b
+      internalID: -3970050737443565004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_1
+      name: Bushes_04_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 194
-        width: 416
-        height: 164
+        x: 64
+        y: 798
+        width: 636
+        height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,62 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4adc550d6f16d6c4ea297e806e759ebc
-      internalID: 4845708550439355826
+      spriteID: 796ff5fe256a14c48b08d33f0b04e841
+      internalID: 7391647248562227681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_2
+      name: Bushes_04_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3
-        width: 1354
-        height: 147
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4c73f7ac2e5eb4458aefce7185df331
-      internalID: 6540869751757382303
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bushes_02_3
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 409
-        width: 409
-        height: 138
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8276a3d2aa8d08647a6951484ea09c64
-      internalID: -1410942866372478682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bushes_02_4
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 62
         y: 571
-        width: 594
-        height: 182
+        width: 621
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c619a978c19e82c4aafecf6ba9d8d058
-      internalID: 5279877363573946366
+      spriteID: e8cad255cf6531a4f93141fc91375103
+      internalID: -9062434833927369217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_5
+      name: Bushes_04_3
       rect:
         serializedVersion: 2
-        x: 700
-        y: 593
-        width: 687
-        height: 184
+        x: 46
+        y: 384
+        width: 421
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e59a8f0dcf566604f8076fa162478046
-      internalID: 1627497079609759083
+      spriteID: e4145d45f4b0e2b4a98ff00126c34621
+      internalID: -6563715625433694331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_6
+      name: Bushes_04_4
       rect:
         serializedVersion: 2
-        x: 1009
-        y: 407
-        width: 380
-        height: 136
+        x: 46
+        y: 212
+        width: 375
+        height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 669e73050db80dc4699ece777bbcb65f
-      internalID: 906677446294878277
+      spriteID: 02b3f3b0d6deecb4184785450aa57e10
+      internalID: -9176618993359763171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_7
+      name: Bushes_04_5
       rect:
         serializedVersion: 2
-        x: 1022
-        y: 211
-        width: 380
-        height: 158
+        x: 1026
+        y: 399
+        width: 414
+        height: 174
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8815364c247a07549a75036fb37c1e25
-      internalID: -6953148375550155135
+      spriteID: 2986be056442ed64abf3379be7704b4f
+      internalID: -4547496029875014232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_8
+      name: Bushes_04_6
       rect:
         serializedVersion: 2
-        x: 746
-        y: 775
-        width: 649
-        height: 235
+        x: 1062
+        y: 95
+        width: 110
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18b2775c6083df446b757f8727380358
-      internalID: -8094215920613788104
+      spriteID: b2fada22c4cfc03499ae5465a0681e70
+      internalID: 4352856500915460782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_9
+      name: Bushes_04_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 793
-        width: 603
-        height: 178
+        x: 9
+        y: 1040
+        width: 843
+        height: 163
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25863e09498c5ed4884110696cecb6d3
-      internalID: 7069844228829066277
+      spriteID: bde030ddefa09654b819dfed57f0dd3f
+      internalID: -1708303390960174576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_10
+      name: Bushes_04_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1045
-        width: 590
-        height: 169
+        x: 877
+        y: 1011
+        width: 577
+        height: 203
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e1584658f8e550448978b14d2f62cba
-      internalID: -4834206448882915470
+      spriteID: 4e7797c2d40ad3445ae7764ada660b1b
+      internalID: 8893251504962710633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_11
+      name: Bushes_04_9
       rect:
         serializedVersion: 2
-        x: 618
-        y: 1026
-        width: 813
-        height: 182
+        x: 853
+        y: 1214
+        width: 601
+        height: 161
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,41 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 249c907568aca5e4cb87279445e216f5
-      internalID: 8323823878821674332
+      spriteID: a72070b977056344db712b8e43b854ea
+      internalID: -8989494817642100152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bushes_02_12
-      rect:
-        serializedVersion: 2
-        x: 599
-        y: 1190
-        width: 838
-        height: 185
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74af32627b322414284e7d03864a835b
-      internalID: 4305993952126085141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bushes_02_13
+      name: Bushes_04_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 1225
-        width: 585
-        height: 150
+        y: 1218
+        width: 842
+        height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,8 +341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77a78de2d37e5da4488c6b8b3a329d3e
-      internalID: 9086286947981514007
+      spriteID: 2056149e1464e664091bc478d7767071
+      internalID: 6318586045695603775
       vertices: []
       indices: 
       edges: []
@@ -422,7 +350,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6bf30cd5d15b98949a7c35fd9341f465
+    spriteID: f668f567c18667d4d99424ec44d7fb3e
     internalID: 0
     vertices: []
     indices: 
