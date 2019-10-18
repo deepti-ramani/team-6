@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: c575a9dd950c6a24ab672af50baca251
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4849169904347569843
+    second: Grass_Flowers_0
+  - first:
+      213: -5171953072253927352
+    second: Grass_Flowers_1
+  - first:
+      213: 1541893420848673608
+    second: Grass_Flowers_2
+  - first:
+      213: 2926352006562269808
+    second: Grass_Flowers_3
+  - first:
+      213: -939722110620043281
+    second: Grass_Flowers_4
+  - first:
+      213: 2583172033982749116
+    second: Grass_Flowers_5
+  - first:
+      213: -3496755157547926214
+    second: Grass_Flowers_6
+  - first:
+      213: 4884438907997820290
+    second: Grass_Flowers_7
+  - first:
+      213: 8255462955808577392
+    second: Grass_Flowers_8
+  - first:
+      213: 131111332051145821
+    second: Grass_Flowers_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +99,230 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Grass_Flowers_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553a688cb8ff1443a241860e812fd36
+      internalID: 4849169904347569843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 172
+        width: 266
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a065f23190f880240b0314042fbea1c6
+      internalID: -5171953072253927352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 172
+        width: 266
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1739728a1004740af6633450975192
+      internalID: 1541893420848673608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 172
+        width: 265
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03e3b1064a934479bf14e695400a1d
+      internalID: 2926352006562269808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6534bfe82948b414fa398e127820b65b
+      internalID: -939722110620043281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6144d62aba39744ae1686e0f738407
+      internalID: 2583172033982749116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb11ca757add2f4883fd5905912127d
+      internalID: -3496755157547926214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a06ff937951741bd508965d4fc8e2
+      internalID: 4884438907997820290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 10
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad6cd71ac890954bb5f243dc2d73bc8
+      internalID: 8255462955808577392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Flowers_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc14d567e54fb4fbd4f04d4f3131b6
+      internalID: 131111332051145821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
